@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Software Engineer
 
-I'm a developer focused on building **practical, scalable web and software applications**. I enjoy turning ideas and real-world problems into functional systems — from restaurant management and event ticketing platforms to API-driven applications and business websites.
+I'm a developer focused on building **practical, scalable web and software applications**. I enjoy turning ideas and real-world problems into functional systems  from restaurant management and event ticketing platforms to API-driven applications and business websites.
 
 I primarily work with **TypeScript, JavaScript, React, Next.js, Node.js, Firebase, and SQL**, while also exploring other languages and technologies through different projects.
 
@@ -28,8 +28,6 @@ I primarily work with **TypeScript, JavaScript, React, Next.js, Node.js, Firebas
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 ### Databases & Tools
@@ -96,21 +94,6 @@ Features include event management, ticket purchasing and payment integration.
 
 ---
 
-### 📝 Notes Application
-
-A full-stack notes application built to practice REST APIs, backend architecture and database operations.
-
-**Built with:** Vite · Express.js · Firestore
-
----
-
-### 🎯 Goal Tracker
-
-A Java application for tracking personal goals and progress.
-
-**Built with:** Java · Android SDK · Room
-
----
 
 ### 🏠 Rental Management System
 
